@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET22-WebApp", "NET22-WebApp\NET22-WebApp.csproj", "{CA18A04E-3DD4-450C-8DCE-CB3AE18E4F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET22-WebAppTest", "NET22-WebAppTest\NET22-WebAppTest.csproj", "{05F80DE4-03C4-4AB1-A12A-A6082B654D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA18A04E-3DD4-450C-8DCE-CB3AE18E4F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA18A04E-3DD4-450C-8DCE-CB3AE18E4F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA18A04E-3DD4-450C-8DCE-CB3AE18E4F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA18A04E-3DD4-450C-8DCE-CB3AE18E4F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F80DE4-03C4-4AB1-A12A-A6082B654D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F80DE4-03C4-4AB1-A12A-A6082B654D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F80DE4-03C4-4AB1-A12A-A6082B654D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F80DE4-03C4-4AB1-A12A-A6082B654D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F0BFC3A-9086-4399-98E9-24D9B65549A0}
+	EndGlobalSection
+EndGlobal
